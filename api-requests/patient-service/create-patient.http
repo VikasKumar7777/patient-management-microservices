@@ -1,0 +1,14 @@
+### GET request to example server
+POST http://lb-3e4d80c0.elb.localhost.localstack.cloud:4004/api/patients
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{
+  "name": "vikas kumar deployment test",
+  "email": "deploymenttest1@gmail.com",
+  "address": "105/70 jaipur",
+  "dateOfBirth": "2004-10-10",
+  "registeredDate": "2026-02-18"
+}
+
+###

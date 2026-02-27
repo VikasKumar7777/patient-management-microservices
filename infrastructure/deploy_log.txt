@@ -1,0 +1,5 @@
+
+Waiting for changeset to be created..
+Waiting for stack create/update to complete
+Successfully created/updated stack - patient-management
+lb-8c4cc5ce.elb.localhost.localstack.cloud
